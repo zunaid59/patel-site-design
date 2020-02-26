@@ -172,7 +172,7 @@ h6 strong{
 
 .claim_title p{
     font-size: 30px;
-    font-weight: 100px;
+    font-weight: 100;
 
 }
 
@@ -303,14 +303,14 @@ footer ul li a:hover{
     border-radius: 5px;
 }
 
-@media only screen and (min-width: 995px){
+@media only screen and (min-width: 995px) {
 
-    .personal_information p{
+    .personal_information p {
         font-size: 45px;
         line-height: 48px;
     }
 
-    .personal_information a{
+    .personal_information a {
         font-size: 10px;
         font-weight: 600;
         padding: 15px;
@@ -319,8 +319,9 @@ footer ul li a:hover{
     }
 
     .claim_title p {
-    font-size: 36px;
-    font-weight: 100;
+        font-size: 36px;
+        font-weight: 100;
+    }
 }
 
 @media only screen and (min-width: 768px) {

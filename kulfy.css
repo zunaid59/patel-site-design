@@ -1,0 +1,72 @@
+body{
+    background-image: url("img/bg.png");
+}
+.container{
+    background: #ffffff;
+}
+.top-bar{
+    height: 25px;
+    background: #444546;
+    font-size: 12px;
+    line-height: 25px;
+}
+
+.left-menu li{
+    float: left;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    /*font-size: 12px;*/
+    /*margin-right: 5px;*/
+    /*line-height: 25px;*/
+}
+
+.left-menu li a{
+    color: white;
+    text-decoration: none;
+}
+
+.shop-btn{
+    padding: 2px 5px 2px 5px;
+    font-size: 8px;
+    border-radius: 0px;
+}
+.right-menu{
+    float: right;
+}
+.center-menu{
+    color: white;
+
+}
+
+
+.center-menu li{
+    list-style: none;
+    float:right;
+    color: #cf8e2d;
+}
+.right-menu li{
+    float: left;
+    list-style: none;
+    color: white;
+}
+.searchTerm{
+    width: 80%;
+
+}
+
+.button-no-radius{
+    border-radius: 0!important;
+}
+
+.padding-left-none{
+    padding-left: 0!important;
+}
+
+.searchButton{
+    height: 30px;
+    background:#4b9a2d;
+    color: #f7f7f7;
+    border:1px solid #4b9a2d;
+
+}
